@@ -6,8 +6,7 @@ This app helps users manage daily tasks with an easy-to-use interface.
 ---
 
 ## 🚀 Live Demo
-🔗 [Click Here to View Project](#)  
-*(Add your GitHub Pages link here)*
+🔗(https://github.com/Aanya0319/Todolist)
 
 ---
 
